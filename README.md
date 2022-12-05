@@ -1,1 +1,1 @@
-# streamdeck-jetbrains
+# Streamdeck Icons for Jetbrains IDEs
